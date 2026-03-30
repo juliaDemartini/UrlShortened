@@ -46,10 +46,7 @@ Este projeto é um encurtador de links moderno desenvolvido com **ASP.NET Core 9
 
 ## 👩‍💻 Autora
 
-**Julia**
-* 🎓 Graduada em Análise e Desenvolvimento de Sistemas.
-* 🚀 Estudante de Engenharia de Software.
-* 📜 AWS Certified Cloud Practitioner.
+**Julia Demartini**
 
 ---
 *Este projeto foi desenvolvido para fins de estudo sobre roteamento, persistência de dados e autenticação em ambiente .NET.*
